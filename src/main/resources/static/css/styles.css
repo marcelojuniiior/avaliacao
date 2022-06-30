@@ -110,11 +110,11 @@
     border: 1px solid red;
 }
 #opcao{
-    
+    text-align: center;
     margin: 200px auto 0px auto;
     width: 500px;
     height: 150px; 
-    border: 1px solid red;
+    border: 1px solid yellow;
 }
 .botao{
     
